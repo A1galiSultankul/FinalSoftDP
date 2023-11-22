@@ -14,11 +14,11 @@ Running the Program: Navigate to the cloned repository directory and execute the
 Bash
 Event Selection: Upon running the program, you will be prompted to enter the type of event you want to attend, such as "Concert," "Football," "Basketball," "Museum," or "Movie."
 
-Discount Strategy Selection: Next, you will be asked to choose a discount strategy from the available options: "NoDiscount," "PercentageDiscount," or "FixedDiscount."
+- Discount Strategy Selection: Next, you will be asked to choose a discount strategy from the available options: "NoDiscount," "PercentageDiscount," or "FixedDiscount."
 
 Ticket Operations: The system will guide you through the process of booking, deleting, or purchasing tickets based on your selections.
 
-Features
+1. Features
 The concert ticket system offers the following features:
 
 Ticket Booking: Users can reserve tickets for upcoming concerts.
