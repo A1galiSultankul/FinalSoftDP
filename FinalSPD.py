@@ -1,7 +1,5 @@
-# Add this at the beginning of your code
 def calculate_ticket_price():
-    # Placeholder implementation, replace with your business logic
-    return 50.0  # Replace with the actual calculation
+    return 50.0  
 
 from abc import ABC, abstractmethod
 
